@@ -30,7 +30,7 @@ class _LandingState extends State<Landing> {
             child: Container(
               color: const Color(0xffc2185b),
               child: const Center(
-                child: Text('랜딩페이지'),
+                child: Text('영화 랜딩페이지'),
               ),
             ),
           ),
