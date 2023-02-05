@@ -56,7 +56,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
                       ? '커뮤니티'
                       : _selectedIndex == 3
                           ? '마이페이지'
-                          : '비고',
+                          : '비고', //d
         ),
       ),
       body: SafeArea(
